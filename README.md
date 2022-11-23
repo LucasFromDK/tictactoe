@@ -1,2 +1,2 @@
 # tictactoe
-A game of TicTacToe
+# https://lucasfromdk.github.io/tictactoe/
